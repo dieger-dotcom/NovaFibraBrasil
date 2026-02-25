@@ -39,7 +39,7 @@ export function ContactForm() {
     setIsSubmitting(true);
     
     // FORMATAÇÃO DA MENSAGEM
-    const numeroWhatsApp = "5545984040464"; // <--- COLOQUE O SEU NÚMERO AQUI (com 55 + DDD)
+    const numeroWhatsApp = "5545984040464"; 
     const mensagem = `*Novo Pedido de Viabilidade - Nova Fibra Brasil*
 ---------------------------------------
 *Nome:* ${data.fullName}
